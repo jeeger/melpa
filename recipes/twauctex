@@ -1,0 +1,3 @@
+(twauctex
+  :fetcher github
+  :repo "jeeger/twauctex")
